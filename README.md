@@ -1,1 +1,4 @@
-![image](請chatgpt出題給我.png)
+# 原因
+![image](start.png)
+# 第一天
+![image](day-1.png)
