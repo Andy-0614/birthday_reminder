@@ -1,4 +1,4 @@
 # 原因
-![image](start.png)
+![image](紀錄/start.png)
 # 第一天
-![image](day-1.png)
+![image](紀錄/day-1.png)
